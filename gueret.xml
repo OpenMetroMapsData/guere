@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<omm-file version="1.0.0">
+  <stations>
+    <station lat="46.173616" lon="1.864863" name="Allendé"/>
+    <station lat="46.157891" lon="1.868188" name="Anna Quinquaud"/>
+    <station lat="46.169126" lon="1.883035" name="Auvergne"/>
+    <station lat="46.178651" lon="1.866532" name="Beauregard"/>
+    <station lat="46.173720" lon="1.885887" name="Bellevue"/>
+    <station lat="46.177820" lon="1.877703" name="Berry"/>
+    <station lat="46.174295" lon="1.870076" name="Brésard"/>
+    <station lat="46.170450" lon="1.870046" name="Carnot"/>
+    <station lat="46.171305" lon="1.874206" name="Charles de Gaulle"/>
+    <station lat="46.176841" lon="1.897569" name="Charsat"/>
+    <station lat="46.194959" lon="1.872193" name="Chateauvieux"/>
+    <station lat="46.187861" lon="1.872554" name="Cher du Prat"/>
+    <station lat="46.179180" lon="1.880049" name="Clinique de la Marche"/>
+    <station lat="46.166337" lon="1.870476" name="Collège Marouzeau"/>
+    <station lat="46.180267" lon="1.874662" name="Collège Nadaud"/>
+    <station lat="46.167085" lon="1.854934" name="Courtille"/>
+    <station lat="46.176617" lon="1.875979" name="Croizat"/>
+    <station lat="46.164307" lon="1.880959" name="Curie"/>
+    <station lat="46.192591" lon="1.872381" name="De Nussac"/>
+    <station lat="46.163463" lon="1.879726" name="Desmoulins"/>
+    <station lat="46.188672" lon="1.882203" name="Docteur Chantrelle"/>
+    <station lat="46.167785" lon="1.872961" name="Eugène France"/>
+    <station lat="46.171526" lon="1.872458" name="Fayolle"/>
+    <station lat="46.171900" lon="1.876829" name="Gambetta"/>
+    <station lat="46.195948" lon="1.880843" name="Garguettes"/>
+    <station lat="46.165617" lon="1.889036" name="Guillon"/>
+    <station lat="46.174051" lon="1.878698" name="Guéret Gare SNCF"/>
+    <station lat="46.165111" lon="1.871143" name="Hôpital"/>
+    <station lat="46.168974" lon="1.871306" name="Hôtel de Ville"/>
+    <station lat="46.176076" lon="1.888957" name="Jean Moulin"/>
+    <station lat="46.176202" lon="1.879246" name="Jouhet"/>
+    <station lat="46.165474" lon="1.877050" name="La Châtaigneraie"/>
+    <station lat="46.185854" lon="1.883152" name="Labetoulle"/>
+    <station lat="46.175936" lon="1.893845" name="Le Verger"/>
+    <station lat="46.161972" lon="1.871648" name="Limousin"/>
+    <station lat="46.172236" lon="1.868929" name="Louis Laroche"/>
+    <station lat="46.171306" lon="1.871767" name="Lycée Bourdan"/>
+    <station lat="46.168043" lon="1.856908" name="Lycée Favard"/>
+    <station lat="46.178884" lon="1.870400" name="Maindigour"/>
+    <station lat="46.169952" lon="1.885381" name="Marc Bloch"/>
+    <station lat="46.166604" lon="1.873435" name="Mendès France"/>
+    <station lat="46.164781" lon="1.873232" name="Montplaisir"/>
+    <station lat="46.165798" lon="1.881852" name="Petit Malleret"/>
+    <station lat="46.170350" lon="1.859942" name="Picasso"/>
+    <station lat="46.168293" lon="1.869917" name="Place Bonnyaud"/>
+    <station lat="46.171270" lon="1.868787" name="Place du Marché"/>
+    <station lat="46.163755" lon="1.887699" name="Place du Tilleul"/>
+    <station lat="46.175827" lon="1.863588" name="Poitou"/>
+    <station lat="46.160394" lon="1.882669" name="Pommeil"/>
+    <station lat="46.183524" lon="1.876820" name="Pompidou"/>
+    <station lat="46.160024" lon="1.870829" name="Professeur Grancher"/>
+    <station lat="46.162909" lon="1.873356" name="Rhin Danube"/>
+    <station lat="46.167110" lon="1.886962" name="Ribière"/>
+    <station lat="46.171984" lon="1.881917" name="Roosevelt"/>
+    <station lat="46.180579" lon="1.884353" name="Saint Exupéry"/>
+    <station lat="46.159774" lon="1.872001" name="Schoelcher"/>
+    <station lat="46.184456" lon="1.872982" name="Stade Léo Lagrange"/>
+    <station lat="46.178268" lon="1.863920" name="Sylvain Blanchet"/>
+    <station lat="46.182211" lon="1.885281" name="Tabarly"/>
+    <station lat="46.193721" lon="1.878304" name="Trois Fontaines"/>
+    <station lat="46.183227" lon="1.879419" name="Varennes"/>
+    <station lat="46.191306" lon="1.882260" name="Vernet"/>
+    <station lat="46.175320" lon="1.882718" name="École Langevin"/>
+    <station lat="46.176656" lon="1.869954" name="École Prévert"/>
+  </stations>
+  <lines>
+    <line circular="false" color="#BFCE12" name="A">
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Brésard"/>
+      <stop station="Louis Laroche"/>
+      <stop station="Place du Marché"/>
+      <stop station="Carnot"/>
+      <stop station="Eugène France"/>
+      <stop station="Schoelcher"/>
+      <stop station="Rhin Danube"/>
+      <stop station="Montplaisir"/>
+      <stop station="Mendès France"/>
+      <stop station="Charles de Gaulle"/>
+      <stop station="Guéret Gare SNCF"/>
+    </line>
+    <line circular="false" color="#AF2080" name="B">
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Brésard"/>
+      <stop station="École Prévert"/>
+      <stop station="Maindigour"/>
+      <stop station="Collège Nadaud"/>
+      <stop station="Pompidou"/>
+      <stop station="Stade Léo Lagrange"/>
+      <stop station="Cher du Prat"/>
+      <stop station="De Nussac"/>
+      <stop station="Chateauvieux"/>
+      <stop station="Trois Fontaines"/>
+      <stop station="Garguettes"/>
+      <stop station="Vernet"/>
+      <stop station="Docteur Chantrelle"/>
+      <stop station="Labetoulle"/>
+      <stop station="Tabarly"/>
+      <stop station="Saint Exupéry"/>
+      <stop station="Clinique de la Marche"/>
+      <stop station="Berry"/>
+      <stop station="Guéret Gare SNCF"/>
+    </line>
+    <line circular="false" color="#008F89" name="C">
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Brésard"/>
+      <stop station="Poitou"/>
+      <stop station="Sylvain Blanchet"/>
+      <stop station="Beauregard"/>
+      <stop station="Maindigour"/>
+      <stop station="École Prévert"/>
+      <stop station="Brésard"/>
+      <stop station="Guéret Gare SNCF"/>
+    </line>
+    <line circular="false" color="#EB7066" name="D">
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Charles de Gaulle"/>
+      <stop station="La Châtaigneraie"/>
+      <stop station="Desmoulins"/>
+      <stop station="Pommeil"/>
+      <stop station="Curie"/>
+      <stop station="Petit Malleret"/>
+      <stop station="Place du Tilleul"/>
+      <stop station="Guillon"/>
+      <stop station="Ribière"/>
+      <stop station="Auvergne"/>
+      <stop station="Roosevelt"/>
+      <stop station="Guéret Gare SNCF"/>
+    </line>
+    <line circular="false" color="#EB7066" name="D - extension">
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Charles de Gaulle"/>
+      <stop station="La Châtaigneraie"/>
+      <stop station="Desmoulins"/>
+      <stop station="Pommeil"/>
+      <stop station="Curie"/>
+      <stop station="Petit Malleret"/>
+      <stop station="Place du Tilleul"/>
+      <stop station="Guillon"/>
+      <stop station="Ribière"/>
+      <stop station="Guillon"/>
+      <stop station="Marc Bloch"/>
+      <stop station="Guéret Gare SNCF"/>
+    </line>
+    <line circular="false" color="#034C97" name="E">
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Croizat"/>
+      <stop station="Jouhet"/>
+      <stop station="École Langevin"/>
+      <stop station="Jean Moulin"/>
+      <stop station="Le Verger"/>
+      <stop station="Charsat"/>
+      <stop station="Bellevue"/>
+      <stop station="Guéret Gare SNCF"/>
+    </line>
+    <line circular="false" color="#FFD500" name="F">
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Brésard"/>
+      <stop station="École Prévert"/>
+      <stop station="Maindigour"/>
+      <stop station="Collège Nadaud"/>
+      <stop station="Varennes"/>
+      <stop station="Tabarly"/>
+      <stop station="Saint Exupéry"/>
+      <stop station="Clinique de la Marche"/>
+      <stop station="Berry"/>
+      <stop station="Guéret Gare SNCF"/>
+    </line>
+    <line circular="false" color="#CB3133" name="P">
+      <stop station="Courtille"/>
+      <stop station="Picasso"/>
+      <stop station="Allendé"/>
+      <stop station="Brésard"/>
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Gambetta"/>
+      <stop station="Fayolle"/>
+      <stop station="Lycée Bourdan"/>
+      <stop station="Hôtel de Ville"/>
+      <stop station="Place Bonnyaud"/>
+      <stop station="Collège Marouzeau"/>
+      <stop station="Hôpital"/>
+      <stop station="Limousin"/>
+      <stop station="Professeur Grancher"/>
+      <stop station="Anna Quinquaud"/>
+      <stop station="Professeur Grancher"/>
+      <stop station="Limousin"/>
+      <stop station="Hôpital"/>
+      <stop station="Collège Marouzeau"/>
+      <stop station="Hôtel de Ville"/>
+      <stop station="Lycée Bourdan"/>
+      <stop station="Fayolle"/>
+      <stop station="Gambetta"/>
+      <stop station="Guéret Gare SNCF"/>
+      <stop station="Brésard"/>
+      <stop station="Allendé"/>
+      <stop station="Picasso"/>
+      <stop station="Lycée Favard"/>
+      <stop station="Courtille"/>
+    </line>
+  </lines>
+  <view name="Guéret" scene-height="1000.000000" scene-width="798.156042" start-x="373.049663" start-y="616.790959">
+    <edges line="A"/>
+    <edges line="B"/>
+    <edges line="C"/>
+    <edges line="D"/>
+    <edges line="D - extension"/>
+    <edges line="E"/>
+    <edges line="F"/>
+    <edges line="P"/>
+    <station name="Allendé" x="212.589219" y="578.199112"/>
+    <station name="Anna Quinquaud" x="267.036711" y="950.000000"/>
+    <station name="Auvergne" x="510.159093" y="684.371225"/>
+    <station name="Beauregard" x="239.919404" y="459.129428"/>
+    <station name="Bellevue" x="556.861123" y="575.739789"/>
+    <station name="Berry" x="422.846603" y="478.781998"/>
+    <station name="Brésard" x="297.953062" y="562.142486"/>
+    <station name="Carnot" x="297.461806" y="653.064358"/>
+    <station name="Charles de Gaulle" x="365.582579" y="632.846910"/>
+    <station name="Charsat" x="748.156042" y="501.934284"/>
+    <station name="Chateauvieux" x="332.619330" y="73.396487"/>
+    <station name="Cher du Prat" x="338.530772" y="241.299466"/>
+    <station name="Clinique de la Marche" x="461.262789" y="446.618793"/>
+    <station name="Collège Marouzeau" x="304.503136" y="750.316532"/>
+    <station name="Collège Nadaud" x="373.049663" y="420.911306"/>
+    <station name="Courtille" x="50.000000" y="732.630560"/>
+    <station name="Croizat" x="394.615783" y="507.231582"/>
+    <station name="Curie" x="476.164208" y="798.313344"/>
+    <station name="De Nussac" x="335.697865" y="129.413867"/>
+    <station name="Desmoulins" x="455.973604" y="818.268148"/>
+    <station name="Docteur Chantrelle" x="496.534939" y="222.116383"/>
+    <station name="Eugène France" x="345.195473" y="716.079300"/>
+    <station name="Fayolle" x="336.958754" y="627.621063"/>
+    <station name="Gambetta" x="408.534691" y="618.777273"/>
+    <station name="Garguettes" x="474.264686" y="50.000000"/>
+    <station name="Guillon" x="608.426583" y="767.340235"/>
+    <station name="Guéret Gare SNCF" x="439.139913" y="567.912490"/>
+    <station name="Hôpital" x="315.425385" y="779.303981"/>
+    <station name="Hôtel de Ville" x="318.094540" y="687.965318"/>
+    <station name="Jean Moulin" x="607.132943" y="520.025415"/>
+    <station name="Jouhet" x="448.113515" y="517.045717"/>
+    <station name="La Châtaigneraie" x="412.153607" y="770.721304"/>
+    <station name="Labetoulle" x="512.074990" y="288.771060"/>
+    <station name="Le Verger" x="687.174851" y="523.336183"/>
+    <station name="Limousin" x="323.694854" y="853.519310"/>
+    <station name="Louis Laroche" x="279.170724" y="610.831998"/>
+    <station name="Lycée Bourdan" x="325.643501" y="632.823264"/>
+    <station name="Lycée Favard" x="82.324617" y="709.978925"/>
+    <station name="Maindigour" x="303.258622" y="453.619088"/>
+    <station name="Marc Bloch" x="548.575279" y="664.839990"/>
+    <station name="Mendès France" x="352.957311" y="744.003519"/>
+    <station name="Montplaisir" x="349.633148" y="787.106365"/>
+    <station name="Petit Malleret" x="490.787249" y="763.060686"/>
+    <station name="Picasso" x="132.006930" y="655.428952"/>
+    <station name="Place Bonnyaud" x="295.349407" y="704.067681"/>
+    <station name="Place du Marché" x="276.845447" y="633.674531"/>
+    <station name="Place du Tilleul" x="586.532959" y="811.364388"/>
+    <station name="Poitou" x="191.710857" y="525.913847"/>
+    <station name="Pommeil" x="504.165775" y="890.826341"/>
+    <station name="Pompidou" x="408.387314" y="343.880402"/>
+    <station name="Professeur Grancher" x="310.283577" y="899.573715"/>
+    <station name="Rhin Danube" x="351.663671" y="831.366277"/>
+    <station name="Ribière" x="574.464448" y="732.039448"/>
+    <station name="Roosevelt" x="491.851636" y="616.790959"/>
+    <station name="Saint Exupéry" x="531.741588" y="413.532430"/>
+    <station name="Schoelcher" x="329.475294" y="905.484070"/>
+    <station name="Stade Léo Lagrange" x="345.539351" y="321.836945"/>
+    <station name="Sylvain Blanchet" x="197.147419" y="468.187148"/>
+    <station name="Tabarly" x="546.937760" y="374.934551"/>
+    <station name="Trois Fontaines" x="432.688090" y="102.682901"/>
+    <station name="Varennes" x="450.946422" y="350.904901"/>
+    <station name="Vernet" x="497.468324" y="159.810802"/>
+    <station name="École Langevin" x="504.968159" y="537.903463"/>
+    <station name="École Prévert" x="295.955289" y="506.309286"/>
+  </view>
+</omm-file>
